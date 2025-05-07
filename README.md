@@ -1,1 +1,2 @@
 # QuranTopicModeling
+This was a class project. I performed topic modeling on three religious texts, the Quran, the Old Testament and the New Testament. This was to 1) see if there were similar topics between the Quran and the other two texts and 2) to compare topic modeling techniques using topic coherence and topic diversity. Check out the report for my findings tl;dr the BERTopic model performed best. 
